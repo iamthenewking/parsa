@@ -11,7 +11,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 preloader: true # To disable preloader change value to false
 
 menu:
-  - url: /
+  - url: /parsa
     name: Home
   - url: /about/
     name: About
