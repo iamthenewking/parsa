@@ -4,14 +4,14 @@
 title: Parsa | Portfolio Jekyll Template
 logo: logo.png # You can add own logo
 description: # Add your awesome description
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Preloader
 preloader: true # To disable preloader change value to false
 
 menu:
-  - url: /parsa
+  - url: /
     name: Home
   - url: /about/
     name: About
